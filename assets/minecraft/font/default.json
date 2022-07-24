@@ -1,0 +1,103 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "vsmp:ui/topmenu.png",
+            "height": 256,
+            "ascent": 59,
+            "chars": [
+                "\uE000"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:ui/bottommenu.png",
+            "height": 256,
+            "ascent": 7,
+            "chars": [
+                "\uE001"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:ui/toptab.png",
+            "height": 256,
+            "ascent": 50,
+            "chars": [
+                "\uE002"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:ui/bottomtab.png",
+            "height": 256,
+            "ascent": 26,
+            "chars": [
+                "\uE003"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/discordicon.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE004"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/minecrafticon.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE005"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/hourglass.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE006"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/5x5circle.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE007"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/modviewicon.png",
+            "height": 7,
+            "ascent": 7,
+            "chars": [
+                "\uE008"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/confirm.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": [
+                "\uE009"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/deny.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": [
+                "\uE010"
+            ]
+		}
+    ]
+}
