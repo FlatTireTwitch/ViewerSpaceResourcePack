@@ -135,7 +135,7 @@
 		{
             "type": "bitmap",
             "file": "vsmp:gui/invsee.png",
-            "ascent": 25,
+            "ascent": 24,
             "height": 256,
             "chars": [
                 "\u1001"
