@@ -1,0 +1,7 @@
+{
+	"parent": "vsmp:item/plushietemplate",
+	"textures": {
+		"0": "vsmp:block/benbyyplushie",
+		"particle": "vsmp:block/benbyyplushie"
+	}
+}
