@@ -8,6 +8,7 @@
 		{"predicate":{"custom_model_data":1000},"model":"vsmp:item/flattiplushie"},
 		{"predicate":{"custom_model_data":1001},"model":"vsmp:item/tackplushie"},
 		{"predicate":{"custom_model_data":1002},"model":"vsmp:item/jayfplushie"},
+		{"predicate":{"custom_model_data":1003},"model":"vsmp:item/toxumiplushie"},
 		{"predicate":{"custom_model_data":2000},"model":"vsmp:item/star"}
    ]
 }
