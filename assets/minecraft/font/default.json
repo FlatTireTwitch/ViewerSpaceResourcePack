@@ -140,6 +140,15 @@
             "chars": [
                 "\u1001"
             ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/modmenu.png",
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "\u1002"
+            ]
         }
     ]
 }
