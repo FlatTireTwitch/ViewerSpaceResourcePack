@@ -135,7 +135,7 @@
 		{
             "type": "bitmap",
             "file": "vsmp:gui/invsee.png",
-            "ascent": 26,
+            "ascent": 30,
             "height": 256,
             "chars": [
                 "\u1001"
@@ -149,6 +149,15 @@
             "chars": [
                 "\u1002"
             ]
-        }
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/einvsee.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "\u1003"
+            ]
+        },
     ]
 }
