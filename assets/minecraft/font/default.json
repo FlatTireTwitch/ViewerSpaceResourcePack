@@ -158,6 +158,15 @@
             "chars": [
                 "\u1003"
             ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/mailbox.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1004"
+            ]
         }
     ]
 }
