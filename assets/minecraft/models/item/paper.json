@@ -11,6 +11,7 @@
 		{"predicate":{"custom_model_data":1003},"model":"vsmp:item/toxumiplushie"},
 		{"predicate":{"custom_model_data":1004},"model":"vsmp:item/benbyyplushie"},
 		{"predicate":{"custom_model_data":1005},"model":"vsmp:item/mariskaplushie"},
-		{"predicate":{"custom_model_data":2000},"model":"vsmp:item/star"}
+		{"predicate":{"custom_model_data":2000},"model":"vsmp:item/star"},
+		{"predicate":{"custom_model_data":3000},"model":"vsmp:block/mailbox"}
    ]
 }
