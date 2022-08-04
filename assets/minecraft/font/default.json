@@ -225,7 +225,7 @@
 		{
             "type": "bitmap",
             "file": "vsmp:gui/friends.png",
-            "ascent": 24,
+            "ascent": 28,
             "height": 256,
             "chars": [
                 "\u1011"
