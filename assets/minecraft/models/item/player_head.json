@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/template_skull",
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "vsmp:item/display_head" }
+    { "predicate": { "custom_model_data": 1 }, "model": "vsmp:item/display_head" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "vsmp:item/display_head_huge" }
   ]
 }

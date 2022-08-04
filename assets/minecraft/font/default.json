@@ -167,6 +167,51 @@
             "chars": [
                 "\u1004"
             ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/mailtorecent.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1005"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/mailtofriends.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1006"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/mailtostreamers.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1007"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/mailtoonline.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1008"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/mailtoall.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1009"
+            ]
         }
     ]
 }
