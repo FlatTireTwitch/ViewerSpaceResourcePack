@@ -3,8 +3,8 @@
   "gui_light": "front",
   "display": {
     "gui": {
-      "rotation": [0, 0, 0],
-      "translation": [0, 22.56, 0],
+      "rotation": [5, 20, 0],
+      "translation": [0, 16, 0],
       "scale": [5.64, 5.64, 5.64]
     }
   }
