@@ -212,6 +212,15 @@
             "chars": [
                 "\u1009"
             ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/offlinemodmenu.png",
+            "ascent": 30,
+            "height": 256,
+            "chars": [
+                "\u1010"
+            ]
         }
     ]
 }
