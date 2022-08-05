@@ -230,6 +230,24 @@
             "chars": [
                 "\u1011"
             ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/mailitem.png",
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "\u1012"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/playermail.png",
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "\u1013"
+            ]
         }
     ]
 }

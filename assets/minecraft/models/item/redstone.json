@@ -13,6 +13,7 @@
 		{"predicate":{"custom_model_data":6},"model":"vsmp:item/6"},
 		{"predicate":{"custom_model_data":7},"model":"vsmp:item/7"},
 		{"predicate":{"custom_model_data":8},"model":"vsmp:item/8"},
-		{"predicate":{"custom_model_data":9},"model":"vsmp:item/9"}
+		{"predicate":{"custom_model_data":9},"model":"vsmp:item/9"},
+		{"predicate":{"custom_model_data":1000},"model":"vsmp:item/blank"}
    ]
 }
