@@ -234,7 +234,7 @@
 		{
             "type": "bitmap",
             "file": "vsmp:gui/mailitem.png",
-            "ascent": 26,
+            "ascent": 30,
             "height": 256,
             "chars": [
                 "\u1012"
