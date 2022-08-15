@@ -2,10 +2,10 @@
   "parent": "vsmp:item/signtemplate",
   "textures": {
     "layer0": "vsmp:sign/tb5"
-  }
+  },
   "display": {
-		"fixed": {
-			"translation": [16, 0, 0]
-		}
-	}
+    "fixed": {
+      "translation": [16, 0, 0]
+    }
+  }
 }
