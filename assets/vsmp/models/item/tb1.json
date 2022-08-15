@@ -1,0 +1,6 @@
+{
+  "parent": "vsmp:item/signtemplate",
+  "textures": {
+    "layer0": "vsmp:sign/tb1"
+  }
+}

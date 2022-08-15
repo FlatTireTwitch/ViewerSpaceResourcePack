@@ -13,6 +13,14 @@
 		{"predicate":{"custom_model_data":1005},"model":"vsmp:item/mariskaplushie"},
 		{"predicate":{"custom_model_data":2000},"model":"vsmp:item/star"},
 		{"predicate":{"custom_model_data":3000},"model":"vsmp:block/mailbox"},
-		{"predicate":{"custom_model_data":4000},"model":"vsmp:block/stonetire"}
+		{"predicate":{"custom_model_data":4000},"model":"vsmp:block/stonetire"},
+		{"predicate":{"custom_model_data":5001},"model":"vsmp:item/tb1"},
+		{"predicate":{"custom_model_data":5002},"model":"vsmp:item/tb2"},
+		{"predicate":{"custom_model_data":5003},"model":"vsmp:item/tb3"},
+		{"predicate":{"custom_model_data":5004},"model":"vsmp:item/tb4"},
+		{"predicate":{"custom_model_data":5005},"model":"vsmp:item/tb5"},
+		{"predicate":{"custom_model_data":5006},"model":"vsmp:item/tb6"},
+		{"predicate":{"custom_model_data":5007},"model":"vsmp:item/tb7"},
+		{"predicate":{"custom_model_data":5008},"model":"vsmp:item/tb8"}
    ]
 }
