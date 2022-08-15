@@ -3,4 +3,9 @@
   "textures": {
     "layer0": "vsmp:sign/tb8"
   }
+  "display": {
+		"fixed": {
+			"translation": [16, 0, 0]
+		}
+	}
 }
