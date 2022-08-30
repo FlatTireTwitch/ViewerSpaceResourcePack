@@ -248,6 +248,51 @@
             "chars": [
                 "\u1013"
             ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/warptorecent.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1014"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/warptopersonal.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1015"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/warptofriends.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1016"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/warptoadmin.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1017"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/warptoall.png",
+            "ascent": 26,
+            "height": 256,
+            "chars": [
+                "\u1018"
+            ]
         }
     ]
 }

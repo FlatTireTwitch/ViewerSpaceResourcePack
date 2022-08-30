@@ -14,6 +14,23 @@
 		{"predicate":{"custom_model_data":7},"model":"vsmp:item/7"},
 		{"predicate":{"custom_model_data":8},"model":"vsmp:item/8"},
 		{"predicate":{"custom_model_data":9},"model":"vsmp:item/9"},
+		{"predicate":{"custom_model_data":10},"model":"vsmp:item/10"},
+		{"predicate":{"custom_model_data":11},"model":"vsmp:item/11"},
+		{"predicate":{"custom_model_data":12},"model":"vsmp:item/12"},
+		{"predicate":{"custom_model_data":13},"model":"vsmp:item/13"},
+		{"predicate":{"custom_model_data":14},"model":"vsmp:item/14"},
+		{"predicate":{"custom_model_data":15},"model":"vsmp:item/15"},
+		{"predicate":{"custom_model_data":16},"model":"vsmp:item/16"},
+		{"predicate":{"custom_model_data":17},"model":"vsmp:item/17"},
+		{"predicate":{"custom_model_data":18},"model":"vsmp:item/18"},
+		{"predicate":{"custom_model_data":19},"model":"vsmp:item/19"},
+		{"predicate":{"custom_model_data":20},"model":"vsmp:item/20"},
+		{"predicate":{"custom_model_data":100},"model":"vsmp:item/settings"},
+		{"predicate":{"custom_model_data":301},"model":"vsmp:item/warp1"},
+		{"predicate":{"custom_model_data":302},"model":"vsmp:item/warp2"},
+		{"predicate":{"custom_model_data":303},"model":"vsmp:item/warp3"},
+		{"predicate":{"custom_model_data":304},"model":"vsmp:item/warp4"},
+		{"predicate":{"custom_model_data":305},"model":"vsmp:item/warp5"},
 		{"predicate":{"custom_model_data":1000},"model":"vsmp:item/blank"}
    ]
 }
