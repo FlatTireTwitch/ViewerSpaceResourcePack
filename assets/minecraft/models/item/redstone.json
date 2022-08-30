@@ -26,6 +26,8 @@
 		{"predicate":{"custom_model_data":19},"model":"vsmp:item/19"},
 		{"predicate":{"custom_model_data":20},"model":"vsmp:item/20"},
 		{"predicate":{"custom_model_data":100},"model":"vsmp:item/settings"},
+		{"predicate":{"custom_model_data":101},"model":"vsmp:item/poweron"},
+		{"predicate":{"custom_model_data":102},"model":"vsmp:item/poweroff"},
 		{"predicate":{"custom_model_data":301},"model":"vsmp:item/warp1"},
 		{"predicate":{"custom_model_data":302},"model":"vsmp:item/warp2"},
 		{"predicate":{"custom_model_data":303},"model":"vsmp:item/warp3"},

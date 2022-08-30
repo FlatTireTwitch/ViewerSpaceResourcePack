@@ -161,7 +161,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/mailbox.png",
+            "file": "vsmp:gui/mail/mailbox.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -170,7 +170,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/mailtorecent.png",
+            "file": "vsmp:gui/mail/mailtorecent.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -179,7 +179,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/mailtofriends.png",
+            "file": "vsmp:gui/mail/mailtofriends.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -188,7 +188,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/mailtostreamers.png",
+            "file": "vsmp:gui/mail/mailtostreamers.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -197,7 +197,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/mailtoonline.png",
+            "file": "vsmp:gui/mail/mailtoonline.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -206,7 +206,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/mailtoall.png",
+            "file": "vsmp:gui/mail/mailtoall.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -233,7 +233,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/mailitem.png",
+            "file": "vsmp:gui/mail/mailitem.png",
             "ascent": 30,
             "height": 256,
             "chars": [
@@ -242,7 +242,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/playermail.png",
+            "file": "vsmp:gui/mail/playermail.png",
             "ascent": 28,
             "height": 256,
             "chars": [
@@ -251,7 +251,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/warptorecent.png",
+            "file": "vsmp:gui/warp/warptorecent.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -260,7 +260,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/warptopersonal.png",
+            "file": "vsmp:gui/warp/warptopersonal.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -269,7 +269,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/warptofriends.png",
+            "file": "vsmp:gui/warp/warptofriends.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -278,7 +278,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/warptoadmin.png",
+            "file": "vsmp:gui/warp/warptoadmin.png",
             "ascent": 26,
             "height": 256,
             "chars": [
@@ -287,11 +287,20 @@
         },
 		{
             "type": "bitmap",
-            "file": "vsmp:gui/warptoall.png",
+            "file": "vsmp:gui/warp/warptoall.png",
             "ascent": 26,
             "height": 256,
             "chars": [
                 "\u1018"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/warp/warpsettings.png",
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                "\u1019"
             ]
         }
     ]

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vsmp:gui/warp4"
+    "layer0": "vsmp:gui/warp/warp4"
   }
 }

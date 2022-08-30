@@ -4,7 +4,7 @@
 		"0": "vsmp:block/waystoneside",
 		"1": "vsmp:block/waystonebottom",
 		"2": "vsmp:block/waystonetop",
-		"particle": "vsmp:block/waystoneside"
+		"particle": "vsmp:block/waystonetop"
 	},
 	"elements": [
 		{
@@ -63,8 +63,8 @@
 				"east": {"uv": [1, 2, 15, 3], "texture": "#0"},
 				"south": {"uv": [1, 2, 15, 3], "texture": "#0"},
 				"west": {"uv": [1, 2, 15, 3], "texture": "#0"},
-				"up": {"uv": [1, 1, 15, 15], "texture": "#1"},
-				"down": {"uv": [1, 1, 15, 15], "texture": "#1"}
+				"up": {"uv": [1, 1, 15, 15], "texture": "#2"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#2"}
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 				"south": {"uv": [0, 0, 16, 2], "texture": "#0"},
 				"west": {"uv": [0, 0, 16, 2], "texture": "#0"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
 		}
 	],

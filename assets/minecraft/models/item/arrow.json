@@ -8,6 +8,7 @@
 		{"predicate":{"custom_model_data":1},"model":"vsmp:item/leftarrow"},
 		{"predicate":{"custom_model_data":2},"model":"vsmp:item/rightarrow"},
 		{"predicate":{"custom_model_data":3},"model":"vsmp:item/uparrow"},
-		{"predicate":{"custom_model_data":4},"model":"vsmp:item/downarrow"}
+		{"predicate":{"custom_model_data":4},"model":"vsmp:item/downarrow"},
+		{"predicate":{"custom_model_data":5},"model":"vsmp:item/backarrow"}
    ]
 }
