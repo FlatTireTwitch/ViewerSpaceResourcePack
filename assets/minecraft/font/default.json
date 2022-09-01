@@ -302,6 +302,15 @@
             "chars": [
                 "\u1019"
             ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:gui/warp/warpitem.png",
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                "\u1020"
+            ]
         }
     ]
 }
