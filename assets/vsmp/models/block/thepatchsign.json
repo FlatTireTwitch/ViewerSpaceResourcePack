@@ -2,20 +2,20 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "vsmp:block/twobirds",
-		"particle": "vsmp:block/twobirds"
+		"0": "vsmp:block/thepatch",
+		"particle": "vsmp:block/thepatch"
 	},
 	"elements": [
 		{
-			"from": [-8, 0, 7.75],
-			"to": [24, 16, 8.25],
+			"from": [-12, 0, 7.75],
+			"to": [28, 16, 8.25],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 8], "texture": "#0"},
-				"east": {"uv": [0, 0, 0.25, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.15, 8], "texture": "#0"},
 				"south": {"uv": [0, 8, 16, 16], "texture": "#0"},
-				"west": {"uv": [15.75, 0, 16, 8], "texture": "#0"},
+				"west": {"uv": [15.85, 0, 16, 8], "texture": "#0"},
 				"up": {"uv": [0, 0, 16, 0.25], "texture": "#0"},
-				"down": {"uv": [0, 7.75, 16, 8], "texture": "#0"}
+				"down": {"uv": [0, 15.75, 16, 16], "texture": "#0"}
 			}
 		}
 	],
@@ -46,7 +46,7 @@
 		},
 		"gui": {
 			"rotation": [0, 180, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"head": {
 			"translation": [0, -17.65, 0],
