@@ -4,6 +4,7 @@
     { "predicate": { "custom_model_data": 1 }, "model": "vsmp:item/display_head" },
 	{ "predicate": { "custom_model_data": 2 }, "model": "vsmp:item/display_head_huge_left" },
 	{ "predicate": { "custom_model_data": 3 }, "model": "vsmp:item/display_head_huge_right" },
-	{ "predicate": { "custom_model_data": 4 }, "model": "vsmp:item/display_head_front" }
+	{ "predicate": { "custom_model_data": 4 }, "model": "vsmp:item/display_head_front" },
+	{ "predicate": { "custom_model_data": 100 }, "model": "vsmp:item/duelhead" }
   ]
 }

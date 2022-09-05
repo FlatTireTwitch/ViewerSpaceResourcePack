@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/template_skull",
+  "gui_light": "front",
+  "display": {
+    "head": {
+      "scale": [4, 4, 0]
+    }
+  }
+}
