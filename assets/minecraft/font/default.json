@@ -311,6 +311,51 @@
             "chars": [
                 "\u1020"
             ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/dash.png",
+            "ascent": 1,
+            "height": 23,
+            "chars": [
+                "\u1040"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/0.png",
+            "ascent": 1,
+            "height": 23,
+            "chars": [
+                "\u1050"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/1.png",
+            "ascent": 1,
+            "height": 23,
+            "chars": [
+                "\u1051"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/2.png",
+            "ascent": 1,
+            "height": 23,
+            "chars": [
+                "\u1052"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/3.png",
+            "ascent": 1,
+            "height": 23,
+            "chars": [
+                "\u1053"
+            ]
         }
     ]
 }
