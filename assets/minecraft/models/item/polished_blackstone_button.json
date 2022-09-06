@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/polished_blackstone_button_inventory",
+  "overrides":
+   [
+		{"predicate":{"custom_model_data":1},"model":"vsmp:block/forfeitbutton"}
+   ]
+}
