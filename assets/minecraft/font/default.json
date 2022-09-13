@@ -134,6 +134,24 @@
 		},
 		{
             "type": "bitmap",
+            "file": "vsmp:font/accept.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": [
+                "\uE011"
+            ]
+		},
+		{
+            "type": "bitmap",
+            "file": "vsmp:font/cancel.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": [
+                "\uE012"
+            ]
+		},
+		{
+            "type": "bitmap",
             "file": "vsmp:gui/invsee.png",
             "ascent": 30,
             "height": 256,
