@@ -152,6 +152,15 @@
 		},
 		{
             "type": "bitmap",
+            "file": "vsmp:font/ignore.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": [
+                "\uE013"
+            ]
+		},
+		{
+            "type": "bitmap",
             "file": "vsmp:gui/invsee.png",
             "ascent": 30,
             "height": 256,
