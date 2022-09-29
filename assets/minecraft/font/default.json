@@ -161,6 +161,15 @@
 		},
 		{
             "type": "bitmap",
+            "file": "vsmp:font/spectate.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": [
+                "\uE014"
+            ]
+		},
+		{
+            "type": "bitmap",
             "file": "vsmp:gui/invsee.png",
             "ascent": 30,
             "height": 256,
